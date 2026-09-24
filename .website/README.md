@@ -1,4 +1,7 @@
 ---
+genres:
+  - sports
+  - puzzle
 post: https://github.com/picosonic/js13k-2020/blob/master/devdiary/diary.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
